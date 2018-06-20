@@ -1,4 +1,7 @@
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Download](https://img.shields.io/github/release/otherguy/es-theme-material.svg?style=for-the-badge&colorB=green)](https://github.com/otherguy/es-theme-material/releases)
+[![GitHub stars](https://img.shields.io/github/stars/otherguy/es-theme-material.svg?style=for-the-badge)](https://github.com/otherguy/es-theme-material)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC/BY--NC--SA-yellow.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
 # EmulationStation Material Theme
 Theme 'Material' v2 - 10-9-16 by Lilbud
