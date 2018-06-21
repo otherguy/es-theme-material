@@ -11,7 +11,7 @@ I added the game details, a few systems and made the font more readable on tiny 
 
 ## Changelog
 
-- `v0.1.0` Inital release
+- `v0.1` Inital release
 
 ## Missing Systems
 
