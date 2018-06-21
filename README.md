@@ -4,15 +4,14 @@
 
 
 # EmulationStation Material Theme
-Theme 'Material' v2 - 10-9-16 by Lilbud
-based on simple(c) Nils Bonenberger - nilsbyte@nilsbyte.de - http://blog.nilsbyte.de/
-For use with EmulationStation (http://www.emulationstation.org/)
 
-Thanks to Herbfargus and Rookervik for testing and helping get this theme functional.
+This is based on the [**Material** v2 theme](https://github.com/lilbud/es-theme-material) by [Lilbud](https://github.com/lilbud). He did all the heavy lifting and all credit goes to the original author!
+
+I added the game details, a few systems and made the font more readable on tiny screens.
 
 ## Changelog
 
-- `v1.0.0` 
+- `v0.1.0` Inital release
 
 ## Missing Systems
 
@@ -24,18 +23,6 @@ Thanks to Herbfargus and Rookervik for testing and helping get this theme functi
 
 This theme is released under the [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. A copy of the license can be found [here](LICENSE.md).
 
-Here human-readable summary of (and not a substitute for) the [license](LICENSE.md).
+For use with EmulationStation (http://www.emulationstation.org/)
 
-You are free to:
-
-  - `Share` — copy and redistribute the material in any medium or format
-  - `Adapt` — remix, transform, and build upon the material
-  
-Under the following terms:
-
-  - `Attribution` — You must give **appropriate credit**, provide a link to the license, and **indicate if changes were made**. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-  - `NonCommercial` — You may **not** use the material **for commercial purposes**.
-  - `ShareAlike` — If you remix, transform, or build upon the material, you must distribute your contributions under the **same license** as the original.
-  - `No additional restrictions` — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-Any and all used logos and trademarks are proprietary and copyright of their respective owners.
+Heavily based on the original [Material theme](https://github.com/lilbud/es-theme-material) by [Lilbud](https://github.com/lilbud).
