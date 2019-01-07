@@ -1,4 +1,5 @@
-[![Download](https://img.shields.io/github/release/otherguy/es-theme-material.svg?style=for-the-badge&colorB=green)](https://github.com/otherguy/es-theme-material/releases)
+![Maintained: yes](https://img.shields.io/maintenance/yes/2019.svg?style=for-the-badge)
+[![Download](https://img.shields.io/github/release/otherguy/es-theme-material.svg?style=for-the-badge&colorB=purple)](https://github.com/otherguy/es-theme-material/releases)
 [![GitHub stars](https://img.shields.io/github/stars/otherguy/es-theme-material.svg?style=for-the-badge)](https://github.com/otherguy/es-theme-material)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC/BY--NC--SA-yellow.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
